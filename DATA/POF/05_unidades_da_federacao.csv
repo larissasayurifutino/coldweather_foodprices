@@ -1,0 +1,28 @@
+reg,sigla,uf,total,Com segurança alimentar,Com insegurança alimentar,Com insegurança alimentar leve,Com insegurança alimentar moderada,Com insegurança alimentar grave
+Norte,RO,Rondônia,571,364,207,149,38,20
+Norte,AC,Acre,234,97,137,76,32,29
+Norte,AM,Amazonas,1014,349,665,322,199,144
+Norte,RR,Roraima,138,83,54,32,9,13
+Norte,PA,Pará,2347,910,1437,800,379,258
+Norte,AP,Amapá,209,85,124,62,40,22
+Norte,TP,Tocantins,484,263,221,147,51,23
+Nordeste,MA,Maranhão,1971,667,1304,695,366,243
+Nordeste,PI,Piauí,1018,550,468,294,112,62
+Nordeste,CE,Ceará,2830,1503,1326,786,365,175
+Nordeste,RN,Rio Grande do Norte,1079,489,590,362,147,81
+Nordeste,PR,Paraíba,1264,588,676,429,167,80
+Nordeste,PE,Pernambuco,3014,1560,1455,859,391,204
+Nordeste,AL,Alagoas,1028,445,582,362,142,79
+Nordeste,SE,Sergipe,749,386,363,233,89,40
+Nordeste,BA,Bahia,4897,2676,2221,1299,612,310
+Sudeste,MG,Minas Gerais,7149,4922,2228,1561,434,233
+Sudeste,ES,Espírito Santo,1385,960,425,293,85,47
+Sudeste,RJ,Rio de Janeiro,5934,4023,1911,1302,405,203
+Sudeste,SP,São Paulo,15585,10777,4808,3619,808,381
+Sul,PR,Paraná,3953,3065,889,697,106,86
+Sul,SC,Santa Catarina,2524,2193,331,227,54,50
+Sul,RS,Rio Grande do Sul,4148,3173,975,696,178,101
+Centro-Oeste,MS,Mato Grosso do Sul,899,566,333,232,60,41
+Centro-Oeste,MT,Mato Grosso,1114,742,372,248,79,45
+Centro-Oeste,GO,Goiás,2350,1495,855,554,183,117
+Centro-Oeste,DF,Distrito Federal,976,656,319,207,64,49
